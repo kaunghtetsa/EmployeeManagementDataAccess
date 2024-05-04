@@ -1,0 +1,46 @@
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.dll.config
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.pdb
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementCommon.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\log4net.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementCommon.pdb
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.xml
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\log4net.xml
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csprojAssemblyReference.cache
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csproj.CoreCompileInputs.cache
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csproj.CopyComplete
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.dll.config
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementCommon.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\log4net.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementCommon.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.xml
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\log4net.xml
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csprojAssemblyReference.cache
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csproj.CoreCompileInputs.cache
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csproj.CopyComplete
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.pdb
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.dll.config
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.dll
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementDataAccess.pdb
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementCommon.dll
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.dll
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\log4net.dll
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EmployeeManagementCommon.pdb
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.xml
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\bin\Debug\log4net.xml
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.csprojResolveAssemblyReference.cache
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.dll
+C:\OwnProject\Source\EmployeeManagementDataAccess\EmployeeManagementDataAccess\obj\Debug\EmployeeManagementDataAccess.pdb
